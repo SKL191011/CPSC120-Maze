@@ -359,7 +359,7 @@ int main()
 			break;
 
 		default:
-		cout << "Please use w,a,s,d to move your character";
+		cout << "Please use w,a,s,d to move your character and press enter/return to play";
 		}
 
 		if(win)
